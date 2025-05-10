@@ -1,8 +1,9 @@
-## Sobre mim
+## Olá meu nome é Rafael Hideki 👋
 
-_Ola meu nome é Rafael Hideki Nishiama, estou cursando ciência da computação na faculdade Uniceub campus Taguatinga, e estou no primeiro semestre._
+_Ola meu nome é Rafael Hideki Nishiama, mais conhecido como Hideki, estou cursando ciência da computação na faculdade Uniceub campus Taguatinga, e estou no primeiro semestre._
 
 ## O que eu faço?
 
-- _Programo na linguagem C++._
-- _Invisto em ações._
+- _Programo na linguagem C++._🖥
+- _curso de marketing digital._📱
+  
